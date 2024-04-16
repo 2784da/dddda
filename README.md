@@ -3,5 +3,5 @@
 ## Setup
 
 ```
-$ conda reate 
+pip install -r requirements.txt
 ```
